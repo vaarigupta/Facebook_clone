@@ -6,9 +6,10 @@
 }
 #fb
 {
-	font-family: tahoma;
+	font-family: sans-serif;
+	font-weight: 900;
 	color: white;
-	font-size: 35px;
+	font-size: 40px;
 	padding: 5px 80px 1px 90px;
 	margin-left: 40px;
 	position: static;
@@ -51,6 +52,10 @@
 
 
 }
+.button1:hover
+{
+	background-color: #293e6a;
+}
 .a1
 {
 	font-family: sans-serif;
@@ -67,4 +72,55 @@ td
 {
  text-decoration: underline;
  color:#A9A9A9;
+}
+._5iyx 
+{
+    margin-right: 15px;
+    width: 537px;
+    margin-left: 27px;
+    position: static;
+}
+#text1
+{
+	font-size: 22px;
+	color: #23355b;
+	font-weight: 700;
+}
+.gradientContent
+ {
+
+    margin: 0 auto;
+    width: 980px;
+    position: static;
+
+}
+#text2
+{
+  font-size:40px;
+  color: #1d2129;;
+  font-family: sans-serif;
+  font-weight: 900;
+
+}
+#text3
+{
+ font-size:18px;
+  color: #1d2129;;
+  font-family: sans-serif;
+}
+._5iyz {
+	position: relative;
+    max-width: 400px;
+   margin-right: 40px;
+   margin-left: 600px;
+ left: 100px;
+ top:-280px;
+
+}
+.inp1
+{
+	width: 195px;
+	height: 40px;
+	border:none;
+	border-radius: 5px;
 }
